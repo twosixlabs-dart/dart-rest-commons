@@ -1,7 +1,7 @@
 # Dart REST Commons
 
-Libraries used throughout DART for defining REST services consistently
-
+Libraries used throughout DART for defining REST services consistently  
+[![build and publish](https://github.com/twosixlabs-dart/dart-rest-commons/actions/workflows/build-and-publish.yml/badge.svg)](https://github.com/twosixlabs-dart/dart-rest-commons/actions/workflows/build-and-publish.yml)
 ## Overview
 
 dart-rest-commons includes definitions of abstract servlet classes that can be mixed into 
