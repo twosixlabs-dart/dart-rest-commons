@@ -14,7 +14,7 @@ object Dependencies {
     val scalatraVersion = "2.7.1"
     val servletApiVersion = "3.1.0"
 
-    val dartCommonsVersion = "3.0.307"
+    val dartCommonsVersion = "3.0.30"
 
     val logging = Seq( "org.slf4j" % "slf4j-api" % slf4jVersion,
                        "ch.qos.logback" % "logback-classic" % logbackVersion )
